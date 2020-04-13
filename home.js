@@ -209,6 +209,22 @@ while (num < 100) {
 // console.log(text);
 
 
+//JSON - Like array with objects inside of it, 
+//Python list with dictionaries inside 
+//Javascript object notation, lightweight
+
+[{
+    "name": "Qazi",
+    "age": 25,
+    "height": 170,
+},
+{
+    "name": "Rafeh",
+    "age": 28,
+    "height": 180,
+}]
+
+
 
 
 
